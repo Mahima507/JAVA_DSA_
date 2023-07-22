@@ -10,7 +10,7 @@ class TreeNode{
         this.right = right;
     }
 }
-public class Main
+public class Solution
 {
        public static void postOrderTraversal(TreeNode root) {
         if (root == null) {
