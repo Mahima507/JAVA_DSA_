@@ -9,7 +9,7 @@ class TreeNode{
         this.right = right;
     }
 }
-public class Main
+public class Solution
 {
     public static int findMax(TreeNode root)
     {
